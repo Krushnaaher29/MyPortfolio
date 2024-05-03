@@ -1,12 +1,12 @@
-# Mr.Lokhande Sai's Portfolio Website
+# Mr.Krushna Aher Portfolio Website
 
 ## Introduction
 
-Welcome to Mr. Lokhande Sai's Portfolio Website! This website showcases the skills, projects, study material and experiences of Mr.Lokhande Sai.
+Welcome to Mr.Krushna Aher Portfolio Website! This website showcases the skills, projects, study material and experiences of Mr.Krushna Aher.
 
-## About Mr.Lokhande Sai
+## About Mr.Krushna Aher
 
-Mr.Lokhande Sai is a Student, innovator and Maker. 
+Mr.Krushna Ahergitg is a Student, innovator and Maker. 
 
 ## Technologies Used
 
